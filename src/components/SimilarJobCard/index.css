@@ -1,0 +1,15 @@
+.similar-job-card {
+  list-style-type: none;
+  background-color: #272727;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+@media (max-width: 576px) {
+  .similar-job-card {
+    width: 100%;
+  }
+}
